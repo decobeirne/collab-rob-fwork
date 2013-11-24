@@ -1,0 +1,68 @@
+
+#ifdef USE_ROB2_IMAGES_FROM_0319
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00000.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_00, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00001.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_01, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00002.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_02, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00003.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_03, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00005.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_05, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00006.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_06, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00007.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_07, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00008.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_08, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00009.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_09, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00010.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_10, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00011.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_11, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00012.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_12, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00013.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_13, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00014.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_14, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00015.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_15, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120319\\img00016.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0319_16, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120331\\img00001.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0331_01, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120331\\img00002.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0331_02, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120331\\img00003.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0331_03, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120331\\img00004.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0331_04, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+	++i;
+	strcpy (data[i].imgName, "robot2_locRobot3_20120331\\img00006.dat"); data[i].orig = orig; data[i].flip = flip; data[i].gridY = CAM_OCCUPANCY_GRID_Y; data[i].isLoc = 0;
+	memcpy (data[i].occupancyGrid, grid_r2_r3_0331_06, CAM_OCCUPANCY_GRID_X * data[i].gridY);
+#endif // ifdef USE_ROB2_IMAGES_FROM_0319
+
+
